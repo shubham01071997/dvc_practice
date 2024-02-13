@@ -1,0 +1,7 @@
+source activate./venv
+create stage 1.py
+create stage 2.py
+create dvc.yaml
+dvc repro
+
+dvc dag

@@ -1,0 +1,3 @@
+dvc push 
+dvc remote add -d remote_storage DVR_PRACTICE/myremotestorage
+dvc add newdata\data.csv
